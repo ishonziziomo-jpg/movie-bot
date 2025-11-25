@@ -9,4 +9,4 @@ Bu bot Railway platformasida ishlaydi.
 - Foydalanuvchilar bazasi
 
 ## 📞 Aloqa:
-Telegram: @username
+Telegram: @Sheyxxbet
